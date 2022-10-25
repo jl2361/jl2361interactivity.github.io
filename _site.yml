@@ -6,9 +6,9 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<jl2361@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/<jl2361>/
+      href: http://github.com/jl2361/
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo

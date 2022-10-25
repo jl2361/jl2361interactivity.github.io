@@ -21,3 +21,8 @@ mean(sample)
 ```
 
 Here's a direct link to the about page: [about](about.html).
+
+
+## New Section!! 
+
+[Here's](plotly.html) page with plotly plots
